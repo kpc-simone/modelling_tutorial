@@ -133,7 +133,7 @@ A powerful feature of Cmder is support for multiple tabs running distinct shells
 
 ### What this is: 
 
-_Nengo_ is its accompanying Python package for building and simulating large-scale, functional spiking neural architectures based on the Neural Engineering Framework (NEF).
+_Nengo_ is a Python package for building and simulating large-scale, functional spiking neural architectures based on the Neural Engineering Framework (NEF).
 
 The NEF provides methods to implement a large, useful class of mathematical operations in spiking neurons. These operations are realized with convex optimization, rather than with online 'learning methods. This is important for two reasons: First, a function specified by the user is immediately implemented in the network, rather than having to wait for a training period to complete. Second, the math that governs the convex optimization process is completely understood and can be challenged. It consists of three principles: Representation, Transformation, and Dynamics. 
 
