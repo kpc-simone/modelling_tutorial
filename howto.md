@@ -248,7 +248,9 @@ Find idb-lvs.py in your working directory
 
 Commit the changes and push to GitHub
 `git add .`
+
 `git commit -m <commit message>`
+
 `git push origin <branch-name>`
 
 Your changes will now appear on your GitHub repository, in your <branch-name> branch.
