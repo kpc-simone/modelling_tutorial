@@ -243,10 +243,11 @@ _Branches_ are used to organize work within a repository.
 
 Suggestion: name-first-expt
 
-Simulate and modify the model on your local machine.
+## Simulate and modify the model on your local machine.
+
 Find idb-lvs.py in your working directory
 
-Commit the changes and push to GitHub
+## Commit the changes and push to GitHub
 `git add .`
 
 `git commit -m <commit message>`
@@ -255,7 +256,7 @@ Commit the changes and push to GitHub
 
 Your changes will now appear on your GitHub repository, in your <branch-name> branch.
 
-Initiate pull request
+## Initiate pull request
 
 Return to https://github.com/<your account>/idb_lvs_model
 
@@ -267,11 +268,10 @@ Hit Pull Request
 (_optional_) Add a comment
 Hit Send pull request
 
-Fetch from upstream
-
 Powerful collaborative project management features of GitHub include Issues, Projects, and Wiki.
 
 For example, check out Nengo's Issue board: https://github.com/nengo/nengo/issues
+
 They host their documentation elsewhere: https://www.nengo.ai/nengo/
 
 Create an issue:
@@ -300,7 +300,9 @@ Create an issue:
 Git and GitHub
 
 https://dont-be-afraid-to-commit.readthedocs.io/en/latest/index.html 
+
 https://guides.github.com/
+
 https://help.github.com/en
 
 Cmder
