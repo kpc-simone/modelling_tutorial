@@ -11,7 +11,7 @@ Often < > are used to denote parameters for input. Don't put in the < >.
 
 This tutorial is a beta version that has not been extensively tested. Any installation or runtime issues will be dealt with at the end of the tutorial.
 
-First, go to kpc-simone/modelling_tutorial. Download the repository and extract files to a folder of your choice.
+Download the repository at https://github.com/kpc-simone/modelling_tutorial and extract files to a folder of your choice.
 
 # Toolchain
 
