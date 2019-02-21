@@ -2,16 +2,18 @@
 This page outlines the prerequisites for simulating and building neurobiological models with the Nengo neural simulator. No prior programming experience is assumed. Each tool will be dealt with separately, with general applications, installation and configuration instructions, and how it supports this modelling toolchain.
 
 Purpose
+
 The ultimate goal of this tutorial is to spark collaboration and collective experimentation on modelling. We'll work through an example model developed with the NEF and Nengo neural simulator to illustrate the process. 
 
 As a Python package, models built with the nengo simulator can be seamlessly interfaced with other Python scripts. While functionality offered through the nengo GUI shows how the model runs, using the 'back-end' as part of your workflow is more powerful and offers more flexibility. The tutorial will therefore require use of the command line wherever possible. 
 
 Practical notes
+
 Often < > are used to denote parameters for input. Don't put in the < >.
 
 This tutorial is a beta version that has not been extensively tested. Any installation or runtime issues will be dealt with at the end of the tutorial.
 
-Download the repository at https://github.com/kpc-simone/modelling_tutorial and extract files to a folder of your choice.
+To get started, download the repository at https://github.com/kpc-simone/modelling_tutorial and extract files to a folder of your choice.
 
 # Toolchain
 
